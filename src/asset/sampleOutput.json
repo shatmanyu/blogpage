@@ -1,1 +1,74 @@
-
+{
+    "articles": [
+        {
+            
+            "title": "HoloLens is not dead, says Microsoft's mixed reality head | Engadget",
+            "description": "Microsoft has not abandoned development on HoloLens 3, according to the technical fellow who leads the company",
+            "img": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/4f4a0180-85f3-11ec-bfeb-ad9c3629abaf"
+            
+        },
+        {
+            
+            "title": "Bungie Was Reportedly 'Exploring' Its Own Streaming Platform Before",
+            "description": "Google Stadia reportedly pitched Bungie on a new streaming service that would make use of Google's streaming tech.",
+            "img": "https://assets-prd.ignimgs.com/2021/11/22/destiny-traveller-1631799014259-1637581112594.jpg?width=1280"
+            
+        },
+        {
+            
+            
+            "title": "Should tech bootcamps keep using job placement metrics in their advertising?",
+            "description": "Edtech has always been in pursuit of a magic metric, but measuring success for the sector",
+            "img": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-200555056-001.jpg?w=571"
+            
+        },
+        { 
+            
+            
+            "title": "Inside Spotify’s Joe Rogan Crisis",
+            "description": "The streaming giant that started as a tech platform is now lurching toward being a media company ",
+            "img": "https://images.wsj.net/im-479907/social"
+            
+        },
+        {
+            
+            "title": "EU: Lindner will Stabilitätspakt verbessern, aber Schuldenregeln behalten",
+            "description": "Der Finanzminister will in der Europäischen Union weiterhin Schulden abbauen. Dennoch sollen Technologien ",
+            "img": "https://www.wiwo.de/images/christian-lindner-fdp-in-rom/28040932/2-format11240.jpg"
+            
+        },
+        {
+            
+            "title": "Why 2022 insurtech investment could surprise you",
+            "description": "Insurtech startups that can retain a tech multiple have a shot at keeping their valuation intact; those that don’t may struggle.",
+            "img": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533"
+            
+        },
+        {
+            
+            "title": "The 2021 Apple TV 4K drops to $160, plus the rest of the week's",
+            "description": "This week's best tech deals include the 2021 Apple TV 4K for $160, the Roku Streambar Pro for $150 and up to $60 off the Apple Watch Series 7..",
+            "img": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/e5549830-bfbe-11eb-bd29-331b18490ec1"
+            
+        },
+        {
+            
+            "title": "Elon Musk’s neurotechnology unicorn may have misled the SEC",
+            "description": "Neuralink’s communication with the SEC could possibly jeopardize future funding for the startup.",
+            "img": "https://content.fortune.com/wp-content/uploads/2022/02/GettyImages-1358939083.jpg?resize=1200,600"
+        },
+        {
+            "title": "EV company builds road that'll charge cars as they drive",
+            "description": "It will be the first public road in the US that will be able to charge electric cars on the go. Electreon has already tested out the tech in Europe.",
+            "img": "https://i.insider.com/61fc384fb0ec040018d0be8e?width=1200&format=jpeg"
+            
+        },
+        {
+            "title": "EV company builds road that'll charge cars as they drive",
+            "description": "It will be the first public road in the US that will be able to charge electric cars on the go. Electreon has already tested out the tech in Europe.",
+            "img": "https://i.insider.com/61fc384fb0ec040018d0be8e?width=1200&format=jpeg"
+            
+        }
+        
+    ]
+}
