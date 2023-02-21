@@ -23,7 +23,7 @@ const BlogSection = () => {
 
  console.log("hey refer",sectionName)
  useEffect(() => {
-   refer.current[sectionName].scrollIntoView();
+   refer?.current[sectionName]?.scrollIntoView();
  }, [sectionName])
 
 console.log("the clicked ref is",refer);
